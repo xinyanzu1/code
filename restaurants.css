@@ -1,0 +1,94 @@
+.menu {width: 100%;
+       height: 60px;
+       background-color:#444444;}
+
+.heading {float: right;
+         margin-top: 10px;
+         padding-right: 5px;
+         }
+
+.heading li{list-style: none;
+            margin-left: 10px;
+            float:left;
+            padding-right:5px;
+            padding-top: 8px;
+}
+
+.heading li a {
+    text-decoration: none;
+    color: black;
+}
+
+.heading li:hover{background-color:azure;}
+
+.header {width: 100%;
+         height:80px;
+         background-color:#444444;
+         margin-top: -48px;
+}
+
+.header h3 {
+    font-family: Brush Script Std;
+    font-size: 45px;
+    padding-left: 25px;
+    text-align: center;
+    color: lightyellow;
+}
+
+
+.bg {
+    width: 100%;
+    height:10px;
+    background-color:#444444;
+    margin-left: 0;
+}
+
+.lss {
+    margin-top: -18px;
+    width: 100%;
+    background-color:whitesmoke;
+    height: 40px;
+    text-decoration: none;
+
+}
+
+.lss ul{
+    list-style-type: none;
+ 
+}
+.lis li{
+    display: inline;
+    font-family:inherit;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.lis li a{
+    text-decoration: none;
+    color: dimgray;
+    font-size: 25px;
+}
+
+.chi p{ 
+    font-family: Brush Script Std;
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+}
+.food {
+    float: left;
+    margin-top: 250px;
+    margin-right: 120px;
+    border-style:outset;
+    width: auto;
+    height: auto;
+}
+
+.dinner {
+    float: right;
+    height: 400px;
+    margin-top: 250px;
+    border-style:outset;
+    width: 400px;
+    height: auto;
+}

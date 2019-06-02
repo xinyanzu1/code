@@ -1,0 +1,104 @@
+.menu {width: 100%;
+       height: 60px;
+       background-color:#444444;}
+
+.heading {float: right;
+         margin-top: 10px;
+         padding-right: 5px;
+         }
+
+.heading li{list-style: none;
+            margin-left: 10px;
+            float:left;
+            padding-right:5px;
+            padding-top: 8px;
+}
+
+.heading li a {
+    text-decoration: none;
+    color: black;
+}
+
+.heading li:hover{background-color:azure;}
+
+.header {width: 100%;
+         height:80px;
+         background-color:#444444;
+         margin-top: -48px;
+}
+
+.header h3 {
+    font-family: Brush Script Std;
+    font-size: 45px;
+    padding-left: 25px;
+    text-align: center;
+    color: lightyellow;
+}
+
+
+.bg {
+    width: 100%;
+    height:10px;
+    background-color:#444444;
+    margin-left: 0;
+}
+
+.lss {
+    margin-top: -18px;
+    width: 100%;
+    background-color:whitesmoke;
+    height: 40px;
+    text-decoration: none;
+
+}
+
+.lss ul{
+    list-style-type: none;
+ 
+}
+
+.lis li{
+    display: inline;
+    font-family:inherit;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.lis li a{
+    text-decoration: none;
+    color: dimgray;
+    font-size: 25px;
+}
+
+.room {
+    width: 550px;
+    height: 400px;
+    float: left;
+    margin-right: 201px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+
+.single {
+    float: left;
+    margin-top: 50px;
+    margin-right: 100px;
+
+}
+
+.double {
+    float: right;
+    margin-top: 50px;
+
+}
+.haosingle {
+    float: left;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.haodouble {
+    float: right;
+    margin-top: 50px; 
+}
